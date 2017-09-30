@@ -1,2 +1,5 @@
 Build/
 imgui.ini
+
+*VC.db
+*.opendb
